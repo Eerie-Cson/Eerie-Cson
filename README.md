@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ericson
 - 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning Javascript/Typescript for backend
+- 🌱 I’m currently learning and creating API's
 - 📫 How to reach me: ericson.sacdalan.4@gmail.com
 
 <!---
