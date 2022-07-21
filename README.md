@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ericson
 - 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning and creating API's
+- 🌱 I’m currently learning and creating API's and exploring various architectures for building database.
 - 📫 How to reach me: ericson.sacdalan.4@gmail.com
 
 <!---
