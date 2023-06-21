@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ericson
-- 👀 I’m interested in becoming a Software Engineer
+- 👀 Backend Developer
 - 🌱 I’m currently learning and creating the basics of API's and exploring various architectures for building softwares.
 - 📫 How to reach me: ericson.sacdalan.4@gmail.com
 
