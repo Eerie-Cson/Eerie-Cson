@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ericson
 - 👀 Backend Developer
-- 🌱 I’m currently learning and creating the basics of API's and exploring various architectures for building softwares.
+- 🌱 I’m currently learning and exploring various architectures and framework for web development.
 - 📫 How to reach me: ericson.sacdalan.4@gmail.com
 
 <!---
